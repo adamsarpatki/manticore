@@ -1,0 +1,87 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'The Flightless Manticore'
+theme = "mainroad"
+paginate = 10 # Number of posts per page
+disqusShortname = "flightlessmanticore"
+## googleAnalytics = 
+
+[Author] #Used in authorbox
+name = "Ádám Sárpátki"
+bio = "He's the new guy around the block who likes drawing fantasy maps. Is possibly under the influence of a particular flightless manticore who had to look for a new career after spectacularly failing at manticoring."
+avatar = "img/avatar.png"
+
+[Params]
+  description = "Home page for The Flightless Manticore, creator of fantasy maps" # Site description. Used in meta description
+  copyright = "Ádám Sárpátki" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  mainSections = ["post", "docs"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400&display=swap" # Load Google Fonts
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.style.vars]
+  highlightColor = "#0369a1" # Override highlight color
+
+  # Override font-family sets
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Jost', Helvetica, Arial, sans-serif"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  title = "The Flightless Manticore" # Logo title, otherwise will use site title
+  subtitle = "A blog dedicated to fantasy maps and TTRPGs" # Logo subtitle
+
+[Params.thumbnail]
+  visibility = ["list"] # Control thumbnail visibility
+
+[Params.sidebar]
+home = "right" # Configure layout for home page
+list = "left"  # Configure layout for list pages
+single = "right" # Configure layout for single pages
+# Enable widgets in given order
+widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+recent_num = 7 # Set the number of articles in the "Recent articles" widget
+categories_counter = false # Enable counter for each category in "Categories" widget
+tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+cached = true # activate cache if true
+# Enable parts of social widget
+twitter = "adamsarpatki"
+instagram = "flightless.manticore"
+linkedin = "adamsarpatki"
+email = "hello@adamsarpatki.com"
+artstation = "adamsarpatki"
+youtube = "@flightless.manticore"
+
+[Params.widgets.search]
+cached = true # activate cache if true
+url = "https://google.com/search"
+[Params.widgets.search.input]
+  name = "sitesearch"
+  pre = ""
+
+[Params.widgets.recent]
+  cached = true
+
+[Params.widgets.categories]
+  cached = true
+
+[Params.widgets.taglist]
+  cached = true
+
+[Params.widgets.languages]
+  cached = true
