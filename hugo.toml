@@ -6,10 +6,16 @@ paginate = 10 # Number of posts per page
 disqusShortname = "flightlessmanticore"
 ## googleAnalytics = 
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
 [Author] #Used in authorbox
 name = "Ádám Sárpátki"
 bio = "He's the new guy around the block who likes drawing fantasy maps. Is possibly under the influence of a particular flightless manticore who had to look for a new career after spectacularly failing at manticoring."
-avatar = "img/avatar.png"
+avatar = "img/avatar.jpg"
 
 [Params]
   description = "Home page for The Flightless Manticore, creator of fantasy maps" # Site description. Used in meta description
@@ -37,7 +43,7 @@ avatar = "img/avatar.png"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  image = "img/logo.jpg" # Logo image. Path relative to "static"
   title = "The Flightless Manticore" # Logo title, otherwise will use site title
   subtitle = "A blog dedicated to fantasy maps and TTRPGs" # Logo subtitle
 
