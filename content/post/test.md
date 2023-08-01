@@ -37,3 +37,5 @@ This map was inspired by a photo that was taken in Canada. Since I’m relativel
 If you’re interested in the map without the watermark, be sure to check out [the finished piece on Artstation](https://www.artstation.com/artwork/49R0rk) where I also show some progress photos.
 
 Oh, and I also have a Youtube channel for the timelapse videos.
+
+{{< youtube id="qTQfYie7v98" image="/img/postcard-1-yt-thumbnail-2.png" >}}
