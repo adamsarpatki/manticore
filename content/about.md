@@ -1,16 +1,16 @@
 ---
 # Common-Defined params
 title: "About"
-description: "Example article description"
+description: "Introducing myself and how I got here"
 menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
-thumbnail: "" # Thumbnail image
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "Introducing myself and how I got here" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: false # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
 toc: true # Enable Table of Contents for specific page
+mathjax: false # Enable MathJax for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
 widgets: # Enable sidebar widgets in given order per page
   - "search"
@@ -20,17 +20,20 @@ widgets: # Enable sidebar widgets in given order per page
   - "social"
 ---
 
-I have a professional background in library science, but I’m currently working as a freelance literary translator and editor for several Hungarian publishers — at this point, I’ve worked on more than 50 books. I have publications ranging from fantasy novels to library science articles.
+Hey, everyone, welcome to my blog! This is Adam, the creator behind *The Flightless Manticore*. I’m from Hungary and I make fantasy maps in my free time, primarily for our D&D campaign.
 
-So you might ask the question: why do I want to switch to UX design?
+I’m a librarian by profession, and even though I haven’t worked as a librarian for a few years now, my research skills come really handy for my current occupation as a literary translator/editor.
 
-I think a part of me was always interested in UX, just didn’t have the word for it. But now that I’m learning more and more about it, I realise a lot of the things a librarian does is related to UX: answering reference questions, understanding your patrons’ needs and problems, organizing information using various classification systems, helping patrons find what they’re looking for, saving them a lot of time and effort. Sounds familiar?
+My journey into RPGs began when I was in high school. My friends and I played forum-based games with other people all over the country (or the world). This way I went to at least two wizarding schools and had my own one as well, but at one point I was also playing in the world of the TV series *Heroes* and *Gossip Girl*, and even *Twilight*. (Yes, I know. No judgment, please!) Those games didn’t really have rules (except for the wizarding school ones), the storytelling aspect was much more important, making the experience incredibly enjoyable.
 
-Since I graduated from university in 2012, I’ve encountered a lot of software that wasn’t user-friendly. So that taught me how important it is to have human-centred solutions, and now I want to make a positive impact by creating these solutions.
+Then, at university, one of my dear friends introduced me to *Vampire: The Masquerade*, my first proper tabletop RPG, and I loved it so much! Of course, I was still really timid, and the game fizzled out quite quickly, as these things sometimes do, but still.
 
-That’s why, in March 2021, I’ve enrolled in Udacity’s UX Nanodegree Program. I’ve learned a lot about the concepts and processes of UX, but it didn’t teach me everything, so I’m always looking for new challenges and projects to try my hand at. Hey, I’ve even designed and developed this website by hand.
+In 2017 I finally started watching Critical Role campaign one (with episode 85, as you do), and I played my first ever D&D session. I believe we started the *Hoard of the Dragon Queen* adventure but it sadly remained unfinished.
 
-I have a generalist mindset: I love working on complex projects from the research phase to development, but since written language has been such an integral part of my life, I am an advocate of clear UX writing and good localization.
+And that’s when I became a DM. After a while I started DMing the *Sunless Citadel* adventure, then *Out of the Abyss* (we never completed that one), and at the end of 2019, I started my homebrew campaign.
 
-Outside of UX, I like to spend my time messing around in Blender, knitting, playing RPGs and video games. I also love cooking, painting miniatures, and drawing fantasy maps.
+As a kid, I always adored it when a book had a map in it. The first one I encountered was, of course, Tolkien’s map in *The Lord of the Rings* — the first Hungarian edition has a beautiful version of it, and that definitely kickstarted my fascination with the topic. Then, when my interest in D&D was sparked in 2017, I started a few other related hobbies as well, like painting miniatures, or drawing maps.
 
+I’ve wanted to take mapmaking more seriously for a while now, and in 2023 I’ve finally taken the first steps to do just that.
+
+Thanks for reading! I hope you’ll like my maps and what I have to say about them.
