@@ -4,15 +4,16 @@ title: "Eden's Retreat"
 date: "2023-07-27"
 description: "Example article description"
 categories:
-  - "Category 1"
-  - "Category 2"
+  - "Maps"
+  - "Timelapse"
 tags:
-  - "Test"
-  - "Another test"
+  - "Region"
+  - "Temperate"
+  - "Postcard"
 
 # Theme-Defined params
 thumbnail: "img/postcard-1_finished_watermarked.jpg"
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "The perfect place for camping" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
