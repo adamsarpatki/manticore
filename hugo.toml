@@ -6,6 +6,11 @@ paginate = 10 # Number of posts per page
 disqusShortname = "flightlessmanticore"
 ## googleAnalytics = 
 
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
+
 [menu]
   [[menu.main]]
     name = "Home"
@@ -80,12 +85,6 @@ url = "https://google.com/search"
   pre = ""
 
 [Params.widgets.recent]
-  cached = true
-
-[Params.widgets.categories]
-  cached = true
-
-[Params.widgets.taglist]
   cached = true
 
 [Params.widgets.languages]
