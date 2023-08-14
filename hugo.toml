@@ -48,7 +48,7 @@ avatar = "img/avatar.jpg"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/logo.jpg" # Logo image. Path relative to "static"
+  image = "img/flightless_manticore_logo_img.jpg" # Logo image. Path relative to "static"
   title = "The Flightless Manticore" # Logo title, otherwise will use site title
   subtitle = "A blog dedicated to fantasy maps and TTRPGs" # Logo subtitle
 
