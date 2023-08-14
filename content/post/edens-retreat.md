@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "Eden's Retreat"
-date: "2023-07-27"
+date: "2023-08-14"
 description: "Example article description"
 categories:
   - "Maps"
@@ -29,7 +29,7 @@ widgets: # Enable sidebar widgets in given order per page
 ---
 
 
-![Eden's retreat](/img/postcard-1_finished_watermarked.jpg)
+![Eden's retreat](/img/edens_retreat_watermark.jpg)
 
 _Eden’s Retreat is a small area located in the temperate climate of its continent, protected by mountains. Its lush vegetation, and crystalline lakes and rivers make it the perfect place for a weekend getaway — for some camping or fishing. True, unwary travelers might meet a grizzly or two, but if they’re lucky, due to the area’s almost magical serenity, the bear will be content with some fishes from the lake._
 
@@ -39,4 +39,4 @@ If you’re interested in the map without the watermark, be sure to check out [t
 
 Oh, and I also have a Youtube channel for the timelapse videos.
 
-{{< youtube id="qTQfYie7v98" image="/img/postcard-1-yt-thumbnail-2.png" >}}
+{{< youtube id="qTQfYie7v98" image="/img/edens_retreat_yt_thumbnail.jpg" >}}
