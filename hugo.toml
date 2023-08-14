@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'The Flightless Manticore'
 theme = "mainroad"
 paginate = 10 # Number of posts per page
-disqusShortname = "flightlessmanticore"
+## disqusShortname =
 ## googleAnalytics = 
 
 [outputFormats]
@@ -18,7 +18,7 @@ disqusShortname = "flightlessmanticore"
     weight = 1
 
 [Author] #Used in authorbox
-name = "Ádám Sárpátki"
+name = "Adam Sarpatki"
 bio = "He's the new guy around the block who likes drawing fantasy maps. Is possibly under the influence of a particular flightless manticore who had to look for a new career after spectacularly failing at manticoring."
 avatar = "img/avatar.jpg"
 
@@ -33,7 +33,7 @@ avatar = "img/avatar.jpg"
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-  mainSections = ["post", "docs"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["post"] # Specify section pages to show on home page and the "Recent articles" widget
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400&display=swap" # Load Google Fonts
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
@@ -73,7 +73,6 @@ cached = true # activate cache if true
 twitter = "adamsarpatki"
 instagram = "flightless.manticore"
 linkedin = "adamsarpatki"
-email = "hello@adamsarpatki.com"
 artstation = "adamsarpatki"
 youtube = "@flightless.manticore"
 
