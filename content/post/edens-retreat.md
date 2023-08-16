@@ -12,7 +12,7 @@ tags:
   - "Postcard"
 
 # Theme-Defined params
-thumbnail: "img/postcard-1_finished_watermarked.jpg"
+thumbnail: "img/edens_retreat_watermark.jpg"
 lead: "The perfect place for camping" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
