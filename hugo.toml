@@ -20,7 +20,7 @@ paginate = 10 # Number of posts per page
 [Author] #Used in authorbox
 name = "Adam Sarpatki"
 bio = "He's the new guy around the block who likes drawing fantasy maps. Is possibly under the influence of a particular flightless manticore who had to look for a new career after spectacularly failing at manticoring."
-avatar = "img/avatar.jpg"
+avatar = "img/adam_sarpatki_small_avatar.jpg"
 
 [Params]
   description = "Home page for The Flightless Manticore, creator of fantasy maps" # Site description. Used in meta description
