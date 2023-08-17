@@ -22,6 +22,6 @@ widgets: # Enable sidebar widgets in given order per page
 
 If you’d like to get in touch, to talk about maps and stuff, feel free to reach out to me on social media (links are in the sidebar, or below, if you’re on mobile), or send me [an email](mailto:hello@adamsarpatki.com).
 
-I don’t take commissions yet, although that could change if the right project came along. So definitely drop me a message if you’re considering.
+I don’t take commissions yet, although that could change if the right project came along. So definitely drop me a message if you’re considering. 😊
 
-![Eden's retreat](/img/postcard-1_finished_watermarked.jpg)
+![Scallyburg, aka Sin City](/img/scallyburg_watermark.jpg)
