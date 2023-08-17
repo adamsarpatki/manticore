@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "About"
+title: "About Me"
 description: "Introducing myself and how I got here"
 menu: main # Optional, add page to a menu. Options: main, side, footer
 
@@ -29,6 +29,8 @@ My journey into RPGs began when I was in high school. My friends and I played fo
 Then, at university, one of my dear friends introduced me to *Vampire: The Masquerade*, my first proper tabletop RPG, and I loved it so much! Of course, I was still really timid, and the game fizzled out quite quickly, as these things sometimes do, but still.
 
 In 2017 I finally started watching Critical Role campaign one (with episode 85, as you do), and I played my first ever D&D session. I believe we started the *Hoard of the Dragon Queen* adventure but it sadly remained unfinished.
+
+![An image of Adam Sarpatki, the creator behind The Flightless Manticore.](/img/adam_sarpatki_avatar.jpg)
 
 And that’s when I became a DM. After a while I started DMing the *Sunless Citadel* adventure, then *Out of the Abyss* (we never completed that one), and at the end of 2019, I started my homebrew campaign.
 
