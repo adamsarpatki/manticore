@@ -42,7 +42,7 @@ And that’s when I became a DM. After a while I started DMing the *Sunless Cita
 
 ## But Why Maps?
 
-As a kid, I always adored it when a book had a map in it. The first one I encountered was, of course, Tolkien’s map in *The Lord of the Rings* — the first Hungarian edition has a beautiful version of it, and that definitely kickstarted my fascination with the topic. Then, when my interest in D&D was sparked in 2017, I started a few other related hobbies as well, like painting miniatures, or drawing maps. (If you're interested in mini painting, I would highly recommend [Painters Guild on Geek & Sundry](https://youtu.be/PRz8DbbD04I).)
+As a kid, I always adored it when a book had a map in it. The first one I encountered was, of course, Tolkien’s map in *The Lord of the Rings* — the first Hungarian edition has a beautiful version of it, and that definitely kickstarted my fascination with the topic. Then, when my interest in D&D was sparked in 2017, I started a few other related hobbies as well, like painting miniatures, or drawing maps. (If want to try out mini painting for yourself, I would highly recommend the [Painters Guild on Geek & Sundry](https://youtu.be/PRz8DbbD04I).)
 
 I’ve wanted to take mapmaking more seriously for a while now, and in 2023 I’ve finally taken the first steps to do just that. This blog is one of those first steps.
 
