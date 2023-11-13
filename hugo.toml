@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://flightlessmanticore.com/'
 languageCode = 'en-us'
 title = 'The Flightless Manticore'
 theme = "mainroad"
@@ -35,8 +35,8 @@ avatar = "img/adam_sarpatki_small_avatar.jpg"
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["post"] # Specify section pages to show on home page and the "Recent articles" widget
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400&display=swap" # Load Google Fonts
-  customCSS = ["css/custom.css"] # Include custom CSS files
-  customJS = ["js/custom.js"] # Include custom JS files
+  # customCSS = ["css/custom.css"] # Include custom CSS files
+  # customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.style.vars]
   highlightColor = "#0369a1" # Override highlight color
@@ -107,3 +107,10 @@ url = "https://google.com/search"
   [privacy.youtube]
     disable = false
     privacyEnhanced = false
+
+  [deployment]
+
+    [[deployment.targets]]
+      # An arbitrary name for this target.
+      name = "production"
+      URL = "gs://flightlessmanticore.com"
