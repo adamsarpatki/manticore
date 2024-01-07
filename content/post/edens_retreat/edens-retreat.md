@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "Eden's Retreat"
-date: "2024-01-08"
+date: "2024-01-07"
 description: "Eden’s Retreat is a small area located in the temperate climate of its continent, protected by mountains. It's the perfect place for camping."
 categories:
   - "Maps"
