@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
-title: "Tools of the Trade. Part One: Analog"
-date: "2024-01-07"
+title: "Tools of the Trade. Part One: Analog Tools"
+date: "2024-01-15"
 description: "The analog tools every fantasy cartographer needs."
 categories:
   - "Mapmaking"
@@ -11,7 +11,7 @@ tags:
   - "Advice"
 
 # Theme-Defined params
-thumbnail: "img/placeholder.png" # Thumbnail image
+thumbnail: "img/analog_tools_post_thumbnail.jpg" # Thumbnail image
 lead: "The analog tools every fantasy cartographer needs" # Lead text
 draft: true
 comments: false # Enable Disqus comments for specific page
@@ -37,6 +37,8 @@ But that’s also why drawing on paper is so cool. You’re not limited by the c
 So if you want to be bold and go the analog route, here’s what I recommend.
 
 (I will mention specific brands below. I assume they’re available internationally, if not in your local stores, then from Amazon, but if you live in Hungary, I highly recommend you check out Rajzshop, an art supply store that has basically anything you could possibly need.)
+
+![Papers, pencils and pens](../20240107-analogtools-DSC_3238.jpg)
 
 ## Paper
 
@@ -69,6 +71,8 @@ Faber-Castell’s Ecco Pigment Fineliners served me well for years now — they 
 Another brand I would recommend is the Pigma Micron fineliners. I believe they’re the industry standard, or at least tons of people use them, with good reason. They also contain archival ink, so it’s waterproof and fade-proof, and they’re generally slightly more expensive than the Ecco Pigment pens, at least where I live. I haven’t used them as much, so I don’t know if they’re that much better than the cheaper brands, but they’re certainly good quality.
 
 However, there are other options. Why not draw your map with a fountain pen, with some nice waterproof ink designed for fountain pens, like sketchINK from Rohrer & Klingner? Why not try using a dip pen? It’s a surprisingly cheap option and can be a lot of fun.
+
+![Copic markers, a dip pen, some ink and watercolor paint](../20240107-analogtools-DSC_3290.jpg)
 
 ## Copic Markers or…?
 
