@@ -91,22 +91,18 @@ url = "https://google.com/search"
 
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
-    anonymizeIP = false
-    disable = false
-    respectDoNotTrack = false
-    useSessionStorage = false
+    disable = true
   [privacy.instagram]
-    disable = false
-    simple = false
+    disable = true
   [privacy.twitter]
-    disable = false
-    enableDNT = false
-    simple = false
+    disable = true
+  [privacy.vimeo]
+    disable = true
   [privacy.youtube]
     disable = false
-    privacyEnhanced = false
+    privacyEnhanced = true
 
   [deployment]
 
