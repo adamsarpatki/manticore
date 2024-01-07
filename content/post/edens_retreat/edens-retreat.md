@@ -15,6 +15,7 @@ tags:
 # Theme-Defined params
 thumbnail: "img/edens_retreat_post_thumbnail.jpg"
 lead: "The perfect place for camping" # Lead text
+draft: false
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
