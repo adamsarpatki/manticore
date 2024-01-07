@@ -10,6 +10,7 @@ tags:
   - "Region"
   - "Temperate"
   - "Postcard"
+  - "Fantasy"
 
 # Theme-Defined params
 thumbnail: "img/edens_retreat_post_thumbnail.jpg"
