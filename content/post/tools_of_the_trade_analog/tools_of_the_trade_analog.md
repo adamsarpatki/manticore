@@ -12,6 +12,7 @@ tags:
 
 # Theme-Defined params
 thumbnail: "img/analog_tools_post_thumbnail.jpg" # Thumbnail image
+images: ["img/analog_tools_post_thumbnail.jpg"]
 lead: "The analog tools every fantasy cartographer needs" # Lead text
 draft: true
 comments: false # Enable Disqus comments for specific page

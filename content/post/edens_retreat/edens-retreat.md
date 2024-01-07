@@ -14,6 +14,7 @@ tags:
 
 # Theme-Defined params
 thumbnail: "img/edens_retreat_post_thumbnail.jpg"
+images: ["img/edens_retreat_post_thumbnail.jpg"]
 lead: "The perfect place for camping" # Lead text
 draft: false
 comments: false # Enable Disqus comments for specific page
