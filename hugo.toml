@@ -75,6 +75,8 @@ instagram = "flightless.manticore"
 linkedin = "adamsarpatki"
 artstation = "adamsarpatki"
 youtube = "@flightless.manticore"
+threads = "flightless.manticore"
+bsky = "flightlessmanticore.com"
 
 [Params.widgets.search]
 cached = true # activate cache if true
