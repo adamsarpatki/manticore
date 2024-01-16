@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "Tools of the Trade. Part One: Analog Tools"
-date: "2024-01-15"
+date: "2024-01-16"
 description: "The analog tools every fantasy cartographer needs."
 categories:
   - "Mapmaking"
@@ -14,7 +14,7 @@ tags:
 thumbnail: "img/analog_tools_post_thumbnail.jpg" # Thumbnail image
 images: ["img/analog_tools_post_thumbnail.jpg"]
 lead: "The analog tools every fantasy cartographer needs" # Lead text
-draft: true
+draft: false
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
