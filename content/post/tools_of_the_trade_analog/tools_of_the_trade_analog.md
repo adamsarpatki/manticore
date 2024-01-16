@@ -45,9 +45,9 @@ So if you want to be bold and go the analog route, here’s what I recommend.
 
 One of the most important decisions to make when starting a map is to select the appropriate paper for your project. Sure, you can start with printer paper, for practicing mountains or trees, but you might not want to draw a whole world map on that. Printer paper is quite thin, it doesn’t hold up that well to erasing or certain techniques, therefore I think it’s best not to bother with it.
 
-What I recommend instead is to buy some cheap, maybe even off-brand 180 g/m2 drawing paper. In Hungary, a stationary shop called Pirex has its own brand of paper for technical drawings, and they work well for pen & paper technique and are quite cheap. I’m sure there are local alternatives where you live.
+What I recommend instead is to buy some cheap, maybe even off-brand 180 g/m2 drawing paper. In Hungary, a stationary shop called Pirex has its own brand of paper for technical drawings, and it works well for pen & paper techniques and is quite cheap. I’m sure there are local alternatives where you live.
 
-However, brands like Canson, Strathmore, and Fabriano are really popular and widely available, I’m sure you can find something made by them that’s suited to your needs. They have an overwhelming amount of pads and notebooks, so I recommend you check out some reviews before buying.
+However, brands like Canson, Strathmore, and Fabriano are really popular and widely available, I’m certain you can find something in their catalog that’s suited to your needs. They have an overwhelming amount of pads and notebooks, so I recommend you check out some reviews before buying.
 
 ## Pencils
 
@@ -56,7 +56,8 @@ Nothing fancy, just some H or HB pencils for the draft.* Something you can clear
 Mechanical pencils would also work, but they’re probably more expensive, and if you’re not careful and push down too hard (like I tend to do), you could leave unerasable marks on the paper. I use a Uni Kuru Toga 05 (the one that comes with the Pipe Slide mechanism), which is an over-engineered Japanese mechanical pencil. The Pipe Slide protects your lead, and when you lift it off the paper, the inner mechanism rotates it, so while you’re writing or drawing, it won’t get really sharp on one side, instead, it stays nice and round.
 
 Clutch pencils would be a great option, too. They’re these mechanical pencils that use lead that’s at least 2 mm thick, so it’s more ideal for drawing and shading than regular mechanical pencils. Read more about them [here](https://unsharpen.com/clutch-pencil-basics/).
-s hard, HB is somewhat hard, but somewhat dark, while a 4B pencil would be really soft and dark. For more info on this, check out [this post](https://www.fabercastell.com/blogs/creativity-for-life/graphite-pencil-lead-degree-hardness) on Faber-Castell’s website.
+
+*H or HB refers to the hardness and blackness of the lead in the pencil. H is hard, HB is somewhat hard, but somewhat dark, while a 4B pencil would be really soft and dark. For more info on this, check out [this post](https://www.fabercastell.com/blogs/creativity-for-life/graphite-pencil-lead-degree-hardness) on Faber-Castell’s website.
 
 ## Rubbers
 
@@ -65,13 +66,12 @@ I use a Tombow Mono Stick Eraser, but any good-quality rubber would work just fi
 ## Pens
 
 Okay, so you’re done with your draft, and you want to start inking. Any old pen would do, but fineliners are much more suited to the job.
-*H or HB refers to the hardness and blackness of the lead in the pencil. H i
 
 Faber-Castell’s Ecco Pigment Fineliners served me well for years now — they have waterproof, acid-free inks with maximum lightfastness, so in theory, your artwork will last a long time. (Although that depends on the paper as well.) I use sizes 0.2, 0.3, and 0.5 the most. You can read more about them [here](https://www.faber-castell.eu/ecco-pigment).
 
-Another brand I would recommend is the Pigma Micron fineliners. I believe they’re the industry standard, or at least tons of people use them, with good reason. They also contain archival ink, so it’s waterproof and fade-proof, and they’re generally slightly more expensive than the Ecco Pigment pens, at least where I live. I haven’t used them as much, so I don’t know if they’re that much better than the cheaper brands, but they’re certainly good quality.
+Another brand I would recommend is Pigma Micron. I believe those fineliners are the industry standard, or at least tons of people use them, with good reason. They also contain archival ink, so it’s waterproof and fade-proof, and they’re generally slightly more expensive than the Ecco Pigment pens, at least where I live. I haven’t used them as much, so I don’t know if they’re that much better than the cheaper brands, but they’re certainly good quality.
 
-However, there are other options. Why not draw your map with a fountain pen, with some nice waterproof ink designed for fountain pens, like sketchINK from Rohrer & Klingner? Why not try using a dip pen? It’s a surprisingly cheap option and can be a lot of fun.
+However, you have other options, too. Why not draw your map with a fountain pen and some nice waterproof ink designed for fountain pens, like sketchINK from Rohrer & Klingner? Why not try using a dip pen? It’s a surprisingly cheap option and can be a lot of fun.
 
 ![Copic markers, a dip pen, some ink and watercolor paint](../20240107-analogtools-DSC_3290.jpg)
 
@@ -81,7 +81,7 @@ If you’re looking to create colorful maps, you can go a few different ways. Yo
 
 The most popular markers are made by Copic. They are the industry standard, and ridiculously overpriced, but the results they produce can be quite spectacular. I have a few of these but haven’t really used them yet, however, it’s definitely in my future plans.
 
-With that said, Copics have alternatives. Jazza recently did [a review about Ohuhu markers](https://www.youtube.com/watch?v=qcvULj_DPvU), and they also seem great, so there are other, maybe even better options.
+With that said, Copics have alternatives. Jazza recently did [a review about Ohuhu markers](https://www.youtube.com/watch?v=qcvULj_DPvU), and they seem great, so there are other more budget-friendly, and maybe even better options.
 
 # Conclusion
 
