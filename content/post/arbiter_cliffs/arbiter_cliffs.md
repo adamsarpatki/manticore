@@ -13,8 +13,8 @@ tags:
   - "Fantasy"
 
 # Theme-Defined params
-thumbnail: "img/edens_retreat_post_thumbnail.jpg"
-images: ["img/edens_retreat_post_thumbnail.jpg"]
+thumbnail: "img/arbiter_cliffs_post_thumbnail.jpg"
+images: ["img/arbiter_cliffs_post_thumbnail.jpg"]
 lead: "An ominous area turned quiet haven" # Lead text
 draft: false
 comments: false # Enable Disqus comments for specific page
@@ -43,4 +43,4 @@ Rookerdenn was also a new addition. It was born when I started drawing this map.
 
 The rulers of Velendria might think that founding a new town will wash away the sins of the past, but things are rarely so simple...
 
-{{< youtube id="qTQfYie7v98" image="../edens_retreat_yt_thumbnail.jpg" >}}
+{{< youtube id="qTQfYie7v98" image="../arbiter_cliffs_yt_thumbnail.jpg" >}}
