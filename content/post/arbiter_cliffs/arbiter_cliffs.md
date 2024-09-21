@@ -31,7 +31,7 @@ widgets: # Enable sidebar widgets in given order per page
   - "social"
 ---
 
-![Arbiter Cliffs](../arbiter_cliffs_postcard_full_label_watermark.jpg)
+![Arbiter Cliffs](../arbiter_cliffs_postcard_full_label_watermark_web.jpg)
 
 *South of the Misty Woods and the land of the elves are the Arbiter Cliffs, an area with a sinister history. Long before the Velendrian Empire assimilated these lands, warring petty monarchs ruled between the Glistening River, the Windless Rise and the Brandywood. One of these monarchs, Brath III, loved listening to the screams of his enemies, so the high Arbiter Cliffs were the perfect location for public executions. The relatively smooth precipice meant no annoying rocks to prematurely break the fall of the condemned.*
 
