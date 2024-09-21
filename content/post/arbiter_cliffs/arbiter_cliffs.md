@@ -20,7 +20,7 @@ draft: false
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
-toc: true # Enable Table of Contents for specific page
+toc: false # Enable Table of Contents for specific page
 mathjax: true # Enable MathJax for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
 widgets: # Enable sidebar widgets in given order per page
@@ -37,10 +37,14 @@ widgets: # Enable sidebar widgets in given order per page
 
 *After Velendria unified these lands and brought order to the area, a new settlement, Rookerdenn, was founded at the foot of the Cliffs to signal the coming of a new, more just and peaceful era.*
 
-When I originally drew my map of Gorlassar--the setting of my homebrew campaign--the Arbiter Cliffs didn't even have a name. After I redrew much of the map (mostly the forests), I named a few new areas on the map, including this, thinking that the name sounded cool, and it also felt quite ominous, positioned between Ulmara's Wake and the Misty Woods.
+When I originally drew my map of Gorlassar--the setting of my homebrew campaign--the Arbiter Cliffs didn't even have a name. After I redrew much of the map (mostly the forests), I named a few new areas, including this, thinking that the name sounded cool, and it also felt quite ominous, positioned between Ulmara's Wake and the Misty Woods.
 
-Rookerdenn was also a new addition. It was born when I started drawing this map. I can't wait to uncover the mysteries lurking in this area, once steeped in the sinister dealings of past kings and queens.
+Rookerdenn was also a new addition. It was born when I started drawing this postcard. I can't wait to uncover the mysteries lurking in this region, once steeped in the sinister dealings of past kings and queens.
 
 The rulers of Velendria might think that founding a new town will wash away the sins of the past, but things are rarely so simple...
 
-{{< youtube id="kQgX8Yw-s7Mie7v98" image="../arbiter_cliffs_yt_thumbnail.jpg" >}}
+For the full-sized image, visit [my post on Cara](https://cara.app/post/6d2d26b0-f156-4037-baf9-abe090e26a67).
+
+**Timelapse video**
+
+{{< youtube id="kQgX8Yw-s7M" image="../arbiter_cliffs_yt_thumbnail.jpg" >}}
