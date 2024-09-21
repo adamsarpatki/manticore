@@ -43,4 +43,4 @@ Rookerdenn was also a new addition. It was born when I started drawing this map.
 
 The rulers of Velendria might think that founding a new town will wash away the sins of the past, but things are rarely so simple...
 
-{{< youtube id="qTQfYie7v98" image="../arbiter_cliffs_yt_thumbnail.jpg" >}}
+{{< youtube id="kQgX8Yw-s7Mie7v98" image="../arbiter_cliffs_yt_thumbnail.jpg" >}}
