@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "Arbiter Cliffs"
-date: "2024-09-22"
+date: "2024-09-21"
 description: "South of the Misty Woods and the land of the elves are the Arbiter Cliffs, an area with a sinister history."
 categories:
   - "Maps"
@@ -31,13 +31,13 @@ widgets: # Enable sidebar widgets in given order per page
   - "social"
 ---
 
-![Arbiter Cliffs](../arbiter_cliffs_postcard_full_label_watermark_web.jpg)
+![The map of Arbiter Cliffs, an area steeped in sinister history.](../arbiter_cliffs_postcard_full_nolabel_nowatermark_web.jpg)
 
 *South of the Misty Woods and the land of the elves are the Arbiter Cliffs, an area with a sinister history. Long before the Velendrian Empire assimilated these lands, warring petty monarchs ruled between the Glistening River, the Windless Rise and the Brandywood. One of these monarchs, Brath III, loved listening to the screams of his enemies, so the high Arbiter Cliffs were the perfect location for public executions. The relatively smooth precipice meant no annoying rocks to prematurely break the fall of the condemned.*
 
 *After Velendria unified these lands and brought order to the area, a new settlement, Rookerdenn, was founded at the foot of the Cliffs to signal the coming of a new, more just and peaceful era.*
 
-When I originally drew my map of Gorlassar--the setting of my homebrew campaign--the Arbiter Cliffs didn't even have a name. After I redrew much of the map (mostly the forests), I named a few new areas on the map, including this, thinking that the name sounded cool--and positioned between Ulmara's Wake and the Misty Woods--it also felt quite ominous.
+When I originally drew my map of Gorlassar--the setting of my homebrew campaign--the Arbiter Cliffs didn't even have a name. After I redrew much of the map (mostly the forests), I named a few new areas on the map, including this, thinking that the name sounded cool, and it also felt quite ominous, positioned between Ulmara's Wake and the Misty Woods.
 
 Rookerdenn was also a new addition. It was born when I started drawing this map. I can't wait to uncover the mysteries lurking in this area, once steeped in the sinister dealings of past kings and queens.
 
