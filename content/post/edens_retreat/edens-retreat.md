@@ -42,4 +42,6 @@ If you’re interested in the map without the watermark, be sure to check out [t
 
 And if you’re interested in the drawing process, do check out the timelapse video below.
 
+### Timelapse video
+
 {{< youtube id="qTQfYie7v98" image="../edens_retreat_yt_thumbnail.jpg" >}}

@@ -45,6 +45,6 @@ The rulers of Velendria might think that founding a new town will wash away the 
 
 For the full-sized image, visit [my post on Cara](https://cara.app/post/6d2d26b0-f156-4037-baf9-abe090e26a67).
 
-**Timelapse video**
+### Timelapse video
 
 {{< youtube id="kQgX8Yw-s7M" image="../arbiter_cliffs_yt_thumbnail.jpg" >}}
