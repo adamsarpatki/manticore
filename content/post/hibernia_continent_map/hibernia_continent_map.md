@@ -5,16 +5,16 @@ date: "2024-12-18"
 description: "North of the White Depths lies the continent of Hibernia, a land of extremities and historical significance."
 categories:
   - "Maps"
-  - "Timelapse"
+  - "Homebrew"
 tags:
-  - "Region"
-  - "Temperate"
-  - "Postcard"
+  - "Continent"
+  - "Arctic"
+  - "Frigid"
   - "Fantasy"
 
 # Theme-Defined params
-thumbnail: "img/arbiter_cliffs_post_thumbnail.jpg"
-images: ["img/arbiter_cliffs_post_thumbnail.jpg"]
+thumbnail: "img/hibernia_continent_map_post_thumbnail.jpg"
+images: ["img/hibernia_continent_map_post_thumbnail.jpg"]
 lead: "The map of Hibernia, the coldest and furthest continent in the world." # Lead text
 draft: false
 comments: false # Enable Disqus comments for specific page
@@ -33,15 +33,15 @@ widgets: # Enable sidebar widgets in given order per page
 
 ![The map of Hibernia, the coldest and furthest continent in the world.](../hibernia_continent_labels_241218_x050.jpg)
 
-*North of the White Depths lies the continent of Hibernia. A land of extremities and historical significance, Hibernia is home to Askaheimr, the northernmost kingdom of humans in the south. In the north, the lands of Eredore give home to fearsome giants, peaceful goliaths, and a splinter group of the drow who live in their crystalline city near the barren slopes of the Adamantine Sierras.
+*North of the White Depths lies the continent of Hibernia. A land of extremities and historical significance, Hibernia is home to Askaheimr, the northernmost kingdom of humans in the south. In the north, the lands of Eredore give home to fearsome giants, peaceful goliaths, and a splinter group of the drow who live in their crystalline city near the barren slopes of the Adamantine Sierras.*
 
-Cold and wind, rain and snow are constant companions to anyone who travels here, and while the Aska people could seem standoffish at first, their frosty demeanour thaws as quickly as rime on a sunny spring day.
+*Cold and wind, rain and snow are constant companions to anyone who travels here, and while the Aska people could seem standoffish at first, their frosty demeanour thaws as quickly as rime on a sunny spring day.*
 
-So come traveller, visit the legendary Mount Sorrow that covered our world in ash, look for treasures in the Forest of Souls, and be welcome in Rustrun, the farthest human city in the world.*
+*So come traveller, visit the legendary Mount Sorrow that covered our world in ash, look for treasures in the Forest of Souls, and be welcome in Rustrun, the farthest human city in the world.*
 
 Hibernia at first was only a sliver of a continent on the northern side of my Gorlassar continent map. Just enough to give two of our players some things to consider when creating their characters.
 
-But in November 2023 the characters of our homebrew game heard about a mysterious library called Grönviken, and started slowly making their way [(slowlymakin’theirway)](https://youtu.be/mciV3mbU-Wo?si=lIWDqOCEvY2-I46a&t=23) there. And I knew it was time to draw the rest of the continent.
+But in November 2023 the characters of our homebrew game heard about a mysterious library called Grönviken, and started [slowly making their way](https://youtu.be/mciV3mbU-Wo?si=lIWDqOCEvY2-I46a&t=23) there. And I knew it was time to draw the rest of the continent.
 
 It was the perfect opportunity for me to take [Deven Rue’s Cartography Course](https://www.patreon.com/posts/78141990) on Patreon. It’s an incredible resource, packed with ideas and methods to use when creating our fantasy worlds. So by supporting a wonderful creator, I reviewed some of the things I messed up when I first created the Gorlassar map. I also wanted to make sure the rest of my world feels somewhat realistic since I have at least one more continent in mind.
 
