@@ -5,6 +5,7 @@ date: "2024-09-21"
 description: "South of the Misty Woods and the land of the elves are the Arbiter Cliffs, an area with a sinister history."
 categories:
   - "Maps"
+  - "Homebrew"
   - "Timelapse"
 tags:
   - "Region"
